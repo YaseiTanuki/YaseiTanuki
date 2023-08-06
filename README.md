@@ -28,7 +28,7 @@
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
 ## My Stats
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YaseiTanuki&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut" height="200" alt="languages graph"  />
 </div>
 
