@@ -28,10 +28,8 @@
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 
-## My Stats
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YaseiTanuki&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=donut" height="200" alt="languages graph"  />
-</div>
+---
+<img title="Neco Arc" src="https://github.com/YaseiTanuki/Utilities/raw/main/Gif/NecoArc-sparkling.gif" alt="JavaScript" width="400px" height="400px">
 
 
 ---
