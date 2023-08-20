@@ -1,4 +1,6 @@
 # **Hello, I'm Phan Cong Hau**
+<img align="right" title="Neco Arc" src="https://github.com/YaseiTanuki/Utilities/raw/main/Gif/NecoArc-Cool.gif" alt="JavaScript" width="400px" height="400px">
+
 + **I usually work on small-personal project.**
 + **Currently, I'm learning about security and privacy, along with web application.**
 + **I have interest in network protection technologies.**
@@ -27,9 +29,5 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
 ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) 
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
-
----
-<img title="Neco Arc" src="https://github.com/YaseiTanuki/Utilities/raw/main/Gif/NecoArc-Cool.gif" alt="JavaScript" width="400px" height="400px">
-
 
 ---
