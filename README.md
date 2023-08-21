@@ -1,9 +1,9 @@
 # **Hello, I'm Phan Cong Hau**
 <img align="right" title="Neco Arc" src="https://github.com/YaseiTanuki/Utilities/raw/main/Gif/NecoArc-Cool.gif" alt="JavaScript" width="400px" height="400px">
 
-+ **I usually work on small-personal project.**
-+ **Currently, I'm learning about security and privacy, along with web application.**
-+ **I have interest in network protection technologies.**
+> + **I usually work on small-personal project.**
+> + **Currently, I'm learning about security and privacy, along with web application.**
+> + **I have interest in network protection technologies.**
 
 ### Contact Infomation
 <a href="https://www.reddit.com/user/YSTanuki"><img title="Reddit" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/reddit.svg" alt="Reddit" width="30px" height="30px"></a>
