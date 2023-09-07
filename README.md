@@ -3,7 +3,7 @@
 
 > + **Working on small-personal project.**
 > + **Currently learning about security and web application.**
-> + **Interest in network protection technologies.**
+> + **Interested in network protection technologies.**
 
 ### Contact Infomation
 <a href="https://www.reddit.com/user/YSTanuki"><img title="Reddit" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/reddit.svg" alt="Reddit" width="30px" height="30px"></a>
