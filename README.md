@@ -20,6 +20,7 @@
     <img title="CSS" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/css.svg" alt="CSS" width="30px" height="30px">
     <img title="JavaScript" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/javascript.svg" alt="JavaScript" width="30px" height="30px">
     <img title="TypeScript" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/typescript.svg" alt="TypeScript" width="30px" height="30px">
+    <img title="Python" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/python.svg" alt="Python" width="30px" height="30px">
     <img title="MongoDB" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/mongodb.svg" alt="MongoDB" width="30px" height="30px">
     <img title="Nodejs" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/nodejs.svg" alt="Nodejs" width="30px" height="30px">
     <img title="React" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/react.svg" alt="React" width="30px" height="30px">
