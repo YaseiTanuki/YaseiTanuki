@@ -26,9 +26,9 @@
     <img title="React" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/react.svg" alt="React" width="30px" height="30px">
 </span>
 
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) 
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB)
-![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=flat&logo=apache-cassandra&logoColor=white) 
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white)
+![.Net](https://github.com/YaseiTanuki/Utilities/raw/main/Badge/dotnet-badge.svg) 
+![Express.js](https://github.com/YaseiTanuki/Utilities/raw/main/Badge/express-badge.svg)
+![ApacheCassandra](https://github.com/YaseiTanuki/Utilities/raw/main/Badge/cassandra-badge.svg) 
+![MicrosoftSQLServer](https://github.com/YaseiTanuki/Utilities/raw/main/Badge/sqlserver-badge.svg)
 
 ---
