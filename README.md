@@ -4,6 +4,7 @@
 > + **Working on small-personal project.**
 > + **Currently learning about security and web application.**
 > + **Interested in network protection technologies.**
+> + **Able to code in light theme.**
 
 ### Contact Infomation
 <a href="https://www.reddit.com/user/YSTanuki"><img title="Reddit" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/reddit.svg" alt="Reddit" width="30px" height="30px"></a>
