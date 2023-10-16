@@ -2,7 +2,7 @@
 <img align="right" title="Neco Arc" src="https://github.com/YaseiTanuki/Utilities/raw/main/Gif/NecoArc-Cool.gif" alt="JavaScript" width="400px" height="400px">
 
 > + **Working on small-personal project.**
-> + **Currently learning about security and web application.**
+> + **Currently learning about security and machine learning.**
 > + **Interested in network protection technologies.**
 > + **Able to code in light theme.**
 
