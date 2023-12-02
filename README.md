@@ -25,7 +25,7 @@
     <img title="MongoDB" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/mongodb.svg" alt="MongoDB" width="30px" height="30px">
     <img title="Nodejs" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/nodejs.svg" alt="Nodejs" width="30px" height="30px">
     <img title="React" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/react.svg" alt="React" width="30px" height="30px">
-    <img title="C" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/jupyter.svg" alt="C" width="30px" height="30px">
+    <img title="Jupyter Notebook" src="https://github.com/YaseiTanuki/Utilities/raw/main/TechIcon/jupyter.svg" alt="Jupyter Notebook" width="30px" height="30px">
 </span>
 
 ![.Net](https://github.com/YaseiTanuki/Utilities/raw/main/Badge/dotnet-badge.svg) 
