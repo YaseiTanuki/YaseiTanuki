@@ -9,7 +9,7 @@
 ### Contact Infomation
 <a href="https://www.reddit.com/user/YSTanuki"><img title="Reddit" src="https://github.com/YaseiTanuki/Utilities/raw/main/Media-Icon/reddit.svg" alt="Reddit" width="30px" height="30px"></a>
 <a href="https://www.facebook.com/YSTanuki"><img title="Facebook" src="https://github.com/YaseiTanuki/Utilities/raw/main/Media-Icon/facebook.svg" alt="Facebook" width="30px" height="30px"></a>
-<a href="https://twitter.com/YSTanuki"><img title="Twitter" src="https://github.com/YaseiTanuki/Utilities/raw/main/Media-Icon/twitter.svg" alt="Twitter" width="30px" height="30px"></a>
+<a href="https://twitter.com/YSTanuki"><img title="Twitter" src="https://github.com/YaseiTanuki/Utilities/raw/main/Media-Icon/x.svg" alt="Twitter" width="30px" height="30px"></a>
 
 ---
 
