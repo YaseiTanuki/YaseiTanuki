@@ -28,6 +28,7 @@
     <img title="Jupyter Notebook" src="https://github.com/YaseiTanuki/Utilities/raw/main/Tech-Icon/jupyter.svg" alt="Jupyter Notebook" width="30px" height="30px">
 </span>
 
+![Rust](https://github.com/YaseiTanuki/Utilities/raw/main/Badge/rust-badge.svg)
 ![.Net](https://github.com/YaseiTanuki/Utilities/raw/main/Badge/dotnet-badge.svg) 
 ![Express.js](https://github.com/YaseiTanuki/Utilities/raw/main/Badge/express-badge.svg)
 ![ApacheCassandra](https://github.com/YaseiTanuki/Utilities/raw/main/Badge/cassandra-badge.svg) 
