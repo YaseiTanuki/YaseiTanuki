@@ -13,7 +13,7 @@
 
 ---
 
-## Tech Stack
+### Tech Stack
 <span>
     <img title="C" src="https://github.com/YaseiTanuki/Utilities/raw/main/Tech-Icon/c.svg" alt="C" width="30px" height="30px">
     <img title="C++" src="https://github.com/YaseiTanuki/Utilities/raw/main/Tech-Icon/cplusplus.svg" alt="C++" width="30px" height="30px">
