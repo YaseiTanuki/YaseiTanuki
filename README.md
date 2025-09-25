@@ -26,7 +26,7 @@
     <img title="Nodejs" src="https://github.com/YaseiTanuki/Utilities/raw/main/Tech-Icon/nodejs.svg" alt="Nodejs" width="30px" height="30px">
     <img title="React" src="https://github.com/YaseiTanuki/Utilities/raw/main/Tech-Icon/react.svg" alt="React" width="30px" height="30px">
     <img title="Jupyter Notebook" src="https://github.com/YaseiTanuki/Utilities/raw/main/Tech-Icon/jupyter.svg" alt="Jupyter Notebook" width="30px" height="30px">
-    <img title="C" src="https://github.com/YaseiTanuki/Utilities/raw/main/Tech-Icon/cap.svg" alt="C" width="30px" height="30px">
+    <img title="CAP CDS" src="https://github.com/YaseiTanuki/Utilities/raw/main/Tech-Icon/cap.svg" alt="CAP CDS" width="30px" height="30px">
 </span>
 
 ![Rust](https://github.com/YaseiTanuki/Utilities/raw/main/Badge/rust-badge.svg)
